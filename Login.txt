@@ -1,0 +1,7 @@
+User
+email: user@user.com
+password: useruser
+
+Admin:
+email: admin@admin.com
+password: adminadmin

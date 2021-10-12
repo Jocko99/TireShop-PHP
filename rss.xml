@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Obaveštenja</title>
+  <link>http://svetguma.epizy.com/rss.xml</link>
+  <description>Obaveštenja za najtraženije gume</description>
+  <item>
+      <title>Bridgestone</title>
+      <link>http://svetguma.epizy.com/index.php</link>
+      <description>BRIDGSTONE 175/60 R14 Blizzak LM001 91T(DOT2019) </description>
+  </item>
+  <item>
+      <title>Bridgestone</title>
+      <link>http://svetguma.epizy.com/index.php</link>
+      <description>BRIDGSTONE 175/65 R14 Blizzak LM002 93T(DOT2020)</description>
+  </item>
+  <item>
+      <title>Tigar</title>
+      <link>http://svetguma.epizy.com/index.php</link>
+      <description>TIGAR 175/65 R14 Wintera 80T(DOT2019)</description>
+  </item>
+</channel>
+</rss> 
